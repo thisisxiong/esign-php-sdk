@@ -5,6 +5,7 @@ namespace Mili\Esign\Factory\Base;
 use Mili\Esign\Factory\Filetemplate\CreateFileByTemplate;
 use Mili\Esign\Factory\Filetemplate\CreateTemplateByUploadUrl;
 use Mili\Esign\Factory\Filetemplate\GetFileUploadUrl;
+use Mili\Esign\Factory\Filetemplate\GetTemplateInfo;
 use Mili\Esign\Factory\Filetemplate\UploadFile;
 
 /**
@@ -60,4 +61,14 @@ class FileTemplate
     public static function uploadFile($filePath, $contentType, $url){
         return new UploadFile($filePath, $contentType, $url);
     }
+    
+        /**
+     * 获取文件详情
+     * @param $templateId
+     * @return GetTemplateInfo
+     */
+    public static function getTemplateInfo($templateId){
+        return new GetTemplateInfo($templateId);
+    }
+}
 }
