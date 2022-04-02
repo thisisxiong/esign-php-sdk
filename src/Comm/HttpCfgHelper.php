@@ -64,6 +64,7 @@ class HttpCfgHelper
             self::writeLog('curl response:');
             self::writeLog($curlRes);
             var_dump("响应" . $curlRes);
+            var_dump("详细：".json_encode(curl_getinfo($ch)));
         }
 
 
