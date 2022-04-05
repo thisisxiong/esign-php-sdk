@@ -17,6 +17,7 @@ define("ESIGN_ROOT", __DIR__);
 define('ESIGN_DEBUGE', true);
 
 //日志文件目录
+define("ESIGN_LOG_DIR",'/data/log/www/');
 // define("ESIGN_LOG_DIR", realpath(ESIGN_ROOT . '/../') . "/logs/");
 // if (ESIGN_DEBUGE && !is_dir(ESIGN_LOG_DIR)) mkdir(ESIGN_LOG_DIR, 0777);
 

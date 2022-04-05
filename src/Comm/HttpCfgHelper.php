@@ -119,6 +119,6 @@ class HttpCfgHelper
         if(is_array($text) || is_object($text)){
             $text = json_encode($text);
         }
-        file_put_contents ( "../phplog.txt", date ( "Y-m-d H:i:s" ) . "  " . $text . "\r\n", FILE_APPEND );
+        file_put_contents ( ESIGN_LOG_DIR."esign.log", date ( "Y-m-d H:i:s" ) . "  " . $text . "\r\n", FILE_APPEND );
     }
 }
