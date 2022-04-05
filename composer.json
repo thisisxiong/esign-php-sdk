@@ -1,5 +1,5 @@
 {
-    "name": "mili/esign",
+    "name": "isxiong-mili/esign",
     "description": "esign SDK",
     "autoload": {
         "psr-4": {
