@@ -17,5 +17,5 @@
 ```
 2. 引入mili/esign
 ```
-composer require mili/esign:v1.1
+composer require mili/esign:v1.0
 ```
