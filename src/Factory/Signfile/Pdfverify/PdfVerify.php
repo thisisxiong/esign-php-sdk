@@ -1,7 +1,7 @@
 <?php
-namespace Mili\Esign\Factory\Signfile\Pdfverify;
-use Mili\Esign\Factory\Request\EsignRequest;
-use Mili\Esign\Emun\HttpEmun;
+namespace IsxiongMili\Esign\Factory\Signfile\Pdfverify;
+use IsxiongMili\Esign\Factory\Request\EsignRequest;
+use IsxiongMili\Esign\Emun\HttpEmun;
 /**
  * 轩辕API文件验签
  * @author  澄泓

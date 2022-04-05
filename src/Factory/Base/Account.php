@@ -1,25 +1,25 @@
 <?php
 
-namespace Mili\Esign\Factory\Base;
+namespace IsxiongMili\Esign\Factory\Base;
 
-use Mili\Esign\Factory\Account\CreateOrganizationsByThirdPartyUserId;
-use Mili\Esign\Factory\Account\CreatePersonByThirdPartyUserId;
-use Mili\Esign\Factory\Account\DeleteOrganizationsByOrgId;
-use Mili\Esign\Factory\Account\DeleteOrganizationsByThirdId;
-use Mili\Esign\Factory\Account\DeletePersonByAccountId;
-use Mili\Esign\Factory\Account\DeletePersonByThirdId;
-use Mili\Esign\Factory\Account\DeleteSignAuth;
-use Mili\Esign\Factory\Account\QryOrganizationsByOrgId;
-use Mili\Esign\Factory\Account\QryOrganizationsByThirdId;
-use Mili\Esign\Factory\Account\QryPersonByaccountId;
-use Mili\Esign\Factory\Account\QryPersonByThirdId;
-use Mili\Esign\Factory\Account\SetSignAuth;
-use Mili\Esign\Factory\Account\SetSignPwd;
-use Mili\Esign\Factory\Account\UpdateOrganizationsByOrgId;
-use Mili\Esign\Factory\Account\UpdateOrganizationsByThirdId;
-use Mili\Esign\Factory\Account\UpdatePersonAccountByAccountId;
-use Mili\Esign\Factory\Account\UpdatePersonAccountByThirdId;
-use Mili\Esign\Factory\Signfile\Seals\CreateOfficialTemplate;
+use IsxiongMili\Esign\Factory\Account\CreateOrganizationsByThirdPartyUserId;
+use IsxiongMili\Esign\Factory\Account\CreatePersonByThirdPartyUserId;
+use IsxiongMili\Esign\Factory\Account\DeleteOrganizationsByOrgId;
+use IsxiongMili\Esign\Factory\Account\DeleteOrganizationsByThirdId;
+use IsxiongMili\Esign\Factory\Account\DeletePersonByAccountId;
+use IsxiongMili\Esign\Factory\Account\DeletePersonByThirdId;
+use IsxiongMili\Esign\Factory\Account\DeleteSignAuth;
+use IsxiongMili\Esign\Factory\Account\QryOrganizationsByOrgId;
+use IsxiongMili\Esign\Factory\Account\QryOrganizationsByThirdId;
+use IsxiongMili\Esign\Factory\Account\QryPersonByaccountId;
+use IsxiongMili\Esign\Factory\Account\QryPersonByThirdId;
+use IsxiongMili\Esign\Factory\Account\SetSignAuth;
+use IsxiongMili\Esign\Factory\Account\SetSignPwd;
+use IsxiongMili\Esign\Factory\Account\UpdateOrganizationsByOrgId;
+use IsxiongMili\Esign\Factory\Account\UpdateOrganizationsByThirdId;
+use IsxiongMili\Esign\Factory\Account\UpdatePersonAccountByAccountId;
+use IsxiongMili\Esign\Factory\Account\UpdatePersonAccountByThirdId;
+use IsxiongMili\Esign\Factory\Signfile\Seals\CreateOfficialTemplate;
 
 /**
  * 轩辕API账号相关功能类

@@ -1,14 +1,14 @@
 <?php
 
 
-namespace Mili\Esign\Factory\Filetemplate;
+namespace IsxiongMili\Esign\Factory\Filetemplate;
 
-use Mili\Esign\Factory\Request\EsignRequest;
-use Mili\Esign\Emun\HttpEmun;
+use IsxiongMili\Esign\Factory\Request\EsignRequest;
+use IsxiongMili\Esign\Emun\HttpEmun;
 
 /**
  * Class 查询模板文件详情
- * @package Mili\Esign\Factory\Filetemplate
+ * @package IsxiongMili\Esign\Factory\Filetemplate
  */
 class GetTemplateInfo extends EsignRequest implements \JsonSerializable
 {

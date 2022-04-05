@@ -3,7 +3,7 @@
     "description": "esign SDK",
     "autoload": {
         "psr-4": {
-            "Mili\\Esign\\": "src/"
+            "IsxiongMili\\Esign\\": "src/"
         }
     },
     "authors": [

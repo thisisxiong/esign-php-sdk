@@ -1,10 +1,10 @@
 <?php
-namespace Mili\Esign\Comm;
+namespace IsxiongMili\Esign\Comm;
 
-use Mili\Esign\Factory\Factory;
-use Mili\Esign\Factory\Response\EsignResponse;
-use Mili\Esign\Comm\UtilHelper;
-use Mili\Esign\Comm\HttpCfgHelper;
+use IsxiongMili\Esign\Factory\Factory;
+use IsxiongMili\Esign\Factory\Response\EsignResponse;
+use IsxiongMili\Esign\Comm\UtilHelper;
+use IsxiongMili\Esign\Comm\HttpCfgHelper;
 
 /**
  * 轩辕APIhttp请求类

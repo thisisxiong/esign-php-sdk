@@ -1,9 +1,9 @@
 <?php
 
-namespace Mili\Esign\Factory;
+namespace IsxiongMili\Esign\Factory;
 
-use Mili\Esign\Factory\Request\EsignRequest;
-use Mili\Esign\Emun\HttpEmun;
+use IsxiongMili\Esign\Factory\Request\EsignRequest;
+use IsxiongMili\Esign\Emun\HttpEmun;
 
 /**
  * 基础信息初始化类

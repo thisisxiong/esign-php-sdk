@@ -1,6 +1,6 @@
 <?php
 
-namespace Mili\Esign\Factory\Bean;
+namespace IsxiongMili\Esign\Factory\Bean;
 /**
  * 轩辕API一步发起签署-doc参数
  * @author  澄泓

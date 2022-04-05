@@ -1,8 +1,8 @@
 <?php
 
-namespace Mili\Esign\Factory\Signfile\Datasign;
-use Mili\Esign\Factory\Request\EsignRequest;
-use Mili\Esign\Emun\HttpEmun;
+namespace IsxiongMili\Esign\Factory\Signfile\Datasign;
+use IsxiongMili\Esign\Factory\Request\EsignRequest;
+use IsxiongMili\Esign\Emun\HttpEmun;
 /**
  * 轩辕API平台方&平台用户文本签
  * @author  澄泓

@@ -1,6 +1,6 @@
 <?php
-namespace Mili\Esign\Factory\Request;
-use Mili\Esign\Comm\HttpHelper;
+namespace IsxiongMili\Esign\Factory\Request;
+use IsxiongMili\Esign\Comm\HttpHelper;
 use ReflectionClass;
 
 /**

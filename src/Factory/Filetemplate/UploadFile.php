@@ -1,9 +1,9 @@
 <?php
 
 
-namespace Mili\Esign\Factory\Filetemplate;
+namespace IsxiongMili\Esign\Factory\Filetemplate;
 
-use Mili\Esign\Comm\HttpHelper;
+use IsxiongMili\Esign\Comm\HttpHelper;
 
 /**
  * 轩辕API文件流上传

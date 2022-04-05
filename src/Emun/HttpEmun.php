@@ -1,5 +1,5 @@
 <?php
-namespace Mili\Esign\Emun;
+namespace IsxiongMili\Esign\Emun;
 /**
  * 请求方法枚举
  * @author  澄泓

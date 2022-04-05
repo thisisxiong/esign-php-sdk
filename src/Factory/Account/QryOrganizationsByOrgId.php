@@ -1,8 +1,8 @@
 <?php
 
-namespace Mili\Esign\Factory\Account;
-use Mili\Esign\Factory\Request\EsignRequest;
-use Mili\Esign\Emun\HttpEmun;
+namespace IsxiongMili\Esign\Factory\Account;
+use IsxiongMili\Esign\Factory\Request\EsignRequest;
+use IsxiongMili\Esign\Emun\HttpEmun;
 use JsonSerializable;
 
 /**

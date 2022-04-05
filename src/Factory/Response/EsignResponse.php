@@ -1,5 +1,5 @@
 <?php
-namespace Mili\Esign\Factory\Response;
+namespace IsxiongMili\Esign\Factory\Response;
 /**
  * 轩辕API响应
  * @author  澄泓

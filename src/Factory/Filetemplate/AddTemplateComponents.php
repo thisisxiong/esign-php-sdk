@@ -1,15 +1,15 @@
 <?php
 
 
-namespace Mili\Esign\Factory\Filetemplate;
+namespace IsxiongMili\Esign\Factory\Filetemplate;
 
-use Mili\Esign\Factory\Request\EsignRequest;
-use Mili\Esign\Emun\HttpEmun;
+use IsxiongMili\Esign\Factory\Request\EsignRequest;
+use IsxiongMili\Esign\Emun\HttpEmun;
 
 /**
  * chao
  * Class AddTemplateComponents
- * @package Mili\Esign\Factory\Filetemplate
+ * @package IsxiongMili\Esign\Factory\Filetemplate
  */
 class AddTemplateComponents extends EsignRequest implements \JsonSerializable
 {

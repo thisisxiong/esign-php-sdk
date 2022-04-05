@@ -1,7 +1,7 @@
 <?php
-namespace Mili\Esign\Comm;
+namespace IsxiongMili\Esign\Comm;
 
-use Mili\Esign\Factory\Factory;
+use IsxiongMili\Esign\Factory\Factory;
 
 /**
  * 常用工具类

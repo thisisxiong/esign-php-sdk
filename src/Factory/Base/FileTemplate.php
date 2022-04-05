@@ -1,12 +1,12 @@
 <?php
 
-namespace Mili\Esign\Factory\Base;
+namespace IsxiongMili\Esign\Factory\Base;
 
-use Mili\Esign\Factory\Filetemplate\CreateFileByTemplate;
-use Mili\Esign\Factory\Filetemplate\CreateTemplateByUploadUrl;
-use Mili\Esign\Factory\Filetemplate\GetFileUploadUrl;
-use Mili\Esign\Factory\Filetemplate\GetTemplateInfo;
-use Mili\Esign\Factory\Filetemplate\UploadFile;
+use IsxiongMili\Esign\Factory\Filetemplate\CreateFileByTemplate;
+use IsxiongMili\Esign\Factory\Filetemplate\CreateTemplateByUploadUrl;
+use IsxiongMili\Esign\Factory\Filetemplate\GetFileUploadUrl;
+use IsxiongMili\Esign\Factory\Filetemplate\GetTemplateInfo;
+use IsxiongMili\Esign\Factory\Filetemplate\UploadFile;
 
 /**
  * 轩辕API
@@ -70,5 +70,4 @@ class FileTemplate
     public static function getTemplateInfo($templateId){
         return new GetTemplateInfo($templateId);
     }
-}
 }

@@ -1,9 +1,9 @@
 <?php
 
-namespace Mili\Esign\Factory\Signfile\Seals;
+namespace IsxiongMili\Esign\Factory\Signfile\Seals;
 
-use Mili\Esign\Factory\Request\EsignRequest;
-use Mili\Esign\Emun\HttpEmun;
+use IsxiongMili\Esign\Factory\Request\EsignRequest;
+use IsxiongMili\Esign\Emun\HttpEmun;
 
 /**
  * 创建企业印章

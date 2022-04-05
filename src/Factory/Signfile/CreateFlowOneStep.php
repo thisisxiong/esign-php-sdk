@@ -1,9 +1,9 @@
 <?php
 
-namespace Mili\Esign\Factory\Signfile;
+namespace IsxiongMili\Esign\Factory\Signfile;
 
-use Mili\Esign\Factory\Request\EsignRequest;
-use Mili\Esign\Emun\HttpEmun;
+use IsxiongMili\Esign\Factory\Request\EsignRequest;
+use IsxiongMili\Esign\Emun\HttpEmun;
 /**
  * 轩辕API一步发起签署
  * @author  澄泓

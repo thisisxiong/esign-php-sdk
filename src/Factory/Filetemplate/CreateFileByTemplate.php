@@ -1,8 +1,8 @@
 <?php
-namespace Mili\Esign\Factory\Filetemplate;
+namespace IsxiongMili\Esign\Factory\Filetemplate;
 
-use Mili\Esign\Factory\Request\EsignRequest;
-use Mili\Esign\Emun\HttpEmun;
+use IsxiongMili\Esign\Factory\Request\EsignRequest;
+use IsxiongMili\Esign\Emun\HttpEmun;
 /**
  * 轩辕API通过模板创建文件
  * @author  澄泓

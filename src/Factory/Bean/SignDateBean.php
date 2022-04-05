@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Mili\Esign\Factory\Bean;
+namespace IsxiongMili\Esign\Factory\Bean;
 
 /**
  * 轩辕API一步发起签署-signfield参数-signDateBean参数

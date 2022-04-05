@@ -1,8 +1,8 @@
 <?php
-namespace Mili\Esign\Comm;
+namespace IsxiongMili\Esign\Comm;
 
-use Mili\Esign\Factory\Factory;
-use Mili\Esign\Factory\Response\EsignResponse;
+use IsxiongMili\Esign\Factory\Factory;
+use IsxiongMili\Esign\Factory\Response\EsignResponse;
 
 /**
  * 轩辕API网络请求配置工具类
