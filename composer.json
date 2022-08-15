@@ -1,0 +1,16 @@
+{
+    "name": "isxiong-mili/esign",
+    "description": "esign SDK",
+    "autoload": {
+        "psr-4": {
+            "IsxiongMili\\Esign\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mili",
+            "email": "mili@milixf.net"
+        }
+    ],
+    "require": {}
+}
